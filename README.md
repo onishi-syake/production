@@ -14,3 +14,6 @@ https://plicy.net/GamePlay/185567
 ## ganを学習させてみた
 StyleGANをインターネットで拾ってきた画像を元に学習させたもの。キャラクターイラストの生成を目標とした。
 https://www.kaggle.com/code/onishikosuke/styleganformiku/output?scriptVersionId=101818139
+
+## AIOthello
+tensorflow等を用いて作成したオセロAI。ただし、モデルが重すぎたためモデルはアップロードしていない。
