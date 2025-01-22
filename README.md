@@ -12,7 +12,7 @@ https://plicy.net/GamePlay/185567
 宮本作のテキストベースRPG。
 
 ## ganを学習させてみた
-現在の生成AIが普及する前にStyleGANをインターネットで拾ってきた画像を元に学習させたもの。キャラクターイラストの生成を目標とした。
+現在の生成AIが普及する前にStyleGANをインターネットで拾ってきた画像を元に学習させたもの。キャラクターイラストの生成を目標とした。  
 https://www.kaggle.com/code/onishikosuke/styleganformiku/output?scriptVersionId=101818139
 
 ## AIOthello
