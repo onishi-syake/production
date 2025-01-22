@@ -12,8 +12,8 @@ https://plicy.net/GamePlay/185567
 宮本作のテキストベースRPG。
 
 ## ganを学習させてみた
-StyleGANをインターネットで拾ってきた画像を元に学習させたもの。キャラクターイラストの生成を目標とした。
+現在の生成AIが普及する前にStyleGANをインターネットで拾ってきた画像を元に学習させたもの。キャラクターイラストの生成を目標とした。
 https://www.kaggle.com/code/onishikosuke/styleganformiku/output?scriptVersionId=101818139
 
 ## AIOthello
-tensorflow等を用いて作成したオセロAI。ただし、モデルが重すぎたためモデルはアップロードしていない。
+tensorflow等を用いて作成した深層強化学習＋モンテカルロ木探索を用いたオセロAI。ただし、モデルが重すぎたためモデルはアップロードしていない。
